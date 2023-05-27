@@ -1,0 +1,147 @@
+#import necessary libraries
+import pandas as pd     #read csv file
+# to convert categorical data into neumeric
+from sklearn.preprocessing import LabelEncoder
+# Decision tree classifier
+from sklearn.tree import DecisionTreeClassifier as DT      
+# to split data into train and test
+from sklearn.model_selection import train_test_split 
+# for evaluating model performance   
+from sklearn.metrics import accuracy_score          
+import matplotlib.pyplot as plt            # to plot graphs
+import seaborn as sns                      # to plot graphs
+from sklearn.metrics import confusion_matrix
+
+#load dataset
+dataset = pd.read_csv('/content/waste_dataset4.csv')
+
+#find null values
+dataset.isna().sum()
+
+#find duplicates
+dataset.duplicated().sum()
+
+#drop duplicates
+dataset = dataset.drop_duplicates()
+
+# Fill missing values in the 'Moisture Content' column with the mean moisture content
+mean_moisture = dataset['Moisture Content'].mean()
+dataset['Moisture Content'].fillna(mean_moisture, inplace=True)
+
+#plot item categories
+plt.figure(1, figsize=(10, 8))
+sns.countplot(data=dataset, x='Item Category', hue='Item Category')
+plt.xlabel('Item Category')
+plt.ylabel('Count')
+plt.title('Distribution of Item Categories')
+plt.xticks(rotation=45)
+plt.legend(title='Item Category')
+plt.show()
+# plot shows that there is near about equal distribution of each category in dataset
+
+#plot count of biodegradable and non_biodegradable
+plt.figure(1, figsize=(10, 8))
+sns.countplot(data=dataset, x='Biodegradable')
+plt.xlabel('Biodegradable')
+plt.ylabel('Count')
+plt.title('Distribution of Biodegradable Items')
+plt.show()
+
+# define label encoder for label encoding
+lb = LabelEncoder()
+# encode all the categorical data so that the data will be in numeric form and we can use it for model training
+dataset['Item Category'] = lb.fit_transform(dataset['Item Category'])
+dataset['Item'] = lb.fit_transform(dataset['Item'])
+dataset['Biodegradable'] = lb.fit_transform(dataset['Biodegradable'])
+
+# split data to X and y.
+# X= independent variables or features
+# y = dependent variable or target
+X = dataset.drop(['Biodegradable', 'Waste Reduction Suggestion'], axis=1)
+y = dataset['Biodegradable']
+
+# split X to X_train and X_test and y to y_train and y_test. so that we can train data on X_train and y_train
+# and evaluate model performance on X_test and y_test
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+
+# define model as decision tree and ccrrieterion as entropy.
+# bydefault crieterion = gini
+model = DT(criterion = 'entropy')
+
+# fit model on train data and train the model
+model.fit(X_train, y_train)
+
+# evaluate model on test data and save predictions to y-pred
+y_pred = model.predict(X_test)
+
+# import pickle library to save trained model
+import pickle           
+
+
+# Save the trained model as a pickle file using pickle.dump function
+filename = 'waste_model.pkl'
+with open(filename, 'wb') as file:
+  pickle.dump(model, file)
+
+
+# Load the trained model from model.pkl file
+with open('/content/waste_model.pkl', 'rb') as file:
+  final_model = pickle.load(file)
+
+# create a function to test the model
+
+
+# function take input as item_category, item , moisture and model
+def predict_yes_no(item_category, item, moisture, model):
+  # Encode categorical inputs using LabelEncoder
+  le1 = LabelEncoder()
+  le2 = LabelEncoder()
+  categorical_input1_encoded = le1.fit_transform([item_category])
+  categorical_input2_encoded = le2.fit_transform([item])
+
+
+  # Encode the input data
+  item_category_encoded = le1.transform([item_category])[0]
+  item_encoded = le2.transform([item])[0]
+  # Make a prediction for the given inputs
+  prediction = model.predict([[item_category_encoded, item_encoded,           moisture]])
+  return prediction[0]
+
+# predict on new input
+result = predict_yes_no('Metal Waste', 'Steel Scrap', 0, final_model)
+print(result)  # Output: 'No' or 'Yes'
+
+
+# calculate accuracy of predictions done by model on test data
+accuracy = accuracy_score(y_test, y_pred)
+print(accuracy)
+
+
+# Create a table of results
+results = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred})
+print(results)
+
+
+# Create a graph to compare actual and predicted values
+plt.figure(figsize=(10, 8))
+sns.countplot(data=results, x='Actual', hue='Predicted')
+plt.xlabel('Actual')
+plt.ylabel('Count')
+plt.title('Actual vs Predicted')
+plt.legend(title='Predicted')
+plt.show()
+
+
+# Generate confusion matrix
+cm = confusion_matrix(y_test, y_pred)
+print(cm)
+
+# Plot confusion matrix
+plt.figure(figsize=(8, 6))
+sns.heatmap(cm, annot=True, fmt="d", cmap="Blues")
+plt.title("Confusion Matrix")
+plt.xlabel("Predicted Label")
+plt.ylabel("True Label")
+plt.show()
+

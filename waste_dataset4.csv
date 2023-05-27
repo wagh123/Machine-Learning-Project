@@ -1,0 +1,648 @@
+﻿Item Category,Item,Moisture Content,Biodegradable,Waste Reduction Suggestion
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Food Waste,Spoiled Fruits,0.9,Yes,Reduce food waste by planning meals and composting food scraps.
+Metal Waste,Steel Scrap,,No,Recycle metal items to conserve resources and reduce landfill waste.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Organic Waste,Compostable Food Containers,0.9,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Packaging Waste,Plastic Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Garden Waste,Tree Trimmings,0.3,No,Compost garden waste and use it as natural fertilizer.
+E-waste,Computer Parts,,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Furniture Waste,Tables,0.01,No,Donate or repurpose furniture instead of discarding it.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Packaging Waste,Cardboard Packaging,0,No,Choose products with minimal packaging and recycle packaging materials.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Paper Waste,Cardboard Boxes,0.2,No,Recycle paper products and use digital alternatives when possible.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Garden Waste,Tree Trimmings,0.3,No,Compost garden waste and use it as natural fertilizer.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Electronics Waste,Keyboards,0.01,No,Recycle old electronics or consider donating them if still functional.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Plastic Waste,Plastic Bags,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Packaging Waste,Plastic Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Paint Waste,Paint Cans,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Garden Waste,Tree Trimmings,0.3,No,Compost garden waste and use it as natural fertilizer.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Chemical Waste,Cleaning Products,,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Metal Waste,Steel Scrap,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Kitchen Waste,Vegetable Trimmings,0.9,Yes,Compost food scraps to reduce landfill waste.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Garden Waste,Tree Trimmings,0.3,No,Compost garden waste and use it as natural fertilizer.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Hazardous Waste,Paints,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Paint Waste,Paint Cans,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Electronics Waste,Keyboards,0.01,No,Recycle old electronics or consider donating them if still functional.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Organic Waste,Biodegradable Bags,0.75,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Paper Waste,Paper Cups,,No,Recycle paper products and use digital alternatives when possible.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Glass Waste,Glass Bottles,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Hazardous Waste,Chemicals,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Kitchen Waste,Fruit Peelings,,Yes,Compost food scraps to reduce landfill waste.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Kitchen Waste,Fruit Peelings,0.85,Yes,Compost food scraps to reduce landfill waste.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Plastic Waste,Plastic Bags,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Kitchen Waste,Vegetable Trimmings,0.9,Yes,Compost food scraps to reduce landfill waste.
+Kitchen Waste,Fruit Peelings,,Yes,Compost food scraps to reduce landfill waste.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Kitchen Waste,Fruit Peelings,0.85,Yes,Compost food scraps to reduce landfill waste.
+Metal Waste,Steel Scrap,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Electronics Waste,Keyboards,0.01,No,Recycle old electronics or consider donating them if still functional.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Hazardous Waste,Paints,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Battery Waste,AA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Plastic Waste,Plastic Bags,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Medicine Waste,Empty Pill Bottles,,No,Follow proper disposal methods for expired medications and medical supplies.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Food Waste,Spoiled Fruits,0.9,Yes,Reduce food waste by planning meals and composting food scraps.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Battery Waste,AA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Plastic Waste,Plastic Packaging,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Garden Waste,Weeds,,No,Compost garden waste and use it as natural fertilizer.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Food Waste,Spoiled Fruits,0.9,Yes,Reduce food waste by planning meals and composting food scraps.
+Kitchen Waste,Fruit Peelings,0.85,Yes,Compost food scraps to reduce landfill waste.
+Electronics Waste,Monitors,,No,Recycle old electronics or consider donating them if still functional.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Textile Waste,Fabric Scraps,,No,Donate or repurpose old clothes instead of throwing them away.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Packaging Waste,Plastic Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Food Waste,Spoiled Fruits,0.9,Yes,Reduce food waste by planning meals and composting food scraps.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Plastic Waste,Plastic Packaging,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Kitchen Waste,Fruit Peelings,0.85,Yes,Compost food scraps to reduce landfill waste.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Paint Waste,Paint Cans,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Garden Waste,Tree Trimmings,0.3,No,Compost garden waste and use it as natural fertilizer.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Paint Waste,Paint Cans,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Electronics Waste,Keyboards,0.01,No,Recycle old electronics or consider donating them if still functional.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Kitchen Waste,Vegetable Trimmings,0.9,Yes,Compost food scraps to reduce landfill waste.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Hazardous Waste,Chemicals,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Paint Waste,Paint Cans,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Metal Waste,Steel Scrap,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Kitchen Waste,Fruit Peelings,0.85,Yes,Compost food scraps to reduce landfill waste.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Glass Waste,Glass Bottles,,No,Recycle glass bottles and jars to reduce landfill waste.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Food Waste,Spoiled Fruits,0.9,Yes,Reduce food waste by planning meals and composting food scraps.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Furniture Waste,Cabinets,,No,Donate or repurpose furniture instead of discarding it.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Plastic Waste,Plastic Bags,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Plastic Waste,Plastic Packaging,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Packaging Waste,Plastic Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Glass Waste,Glass Bottles,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Garden Waste,Tree Trimmings,0.3,No,Compost garden waste and use it as natural fertilizer.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Metal Waste,Steel Scrap,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Furniture Waste,Tables,0.01,No,Donate or repurpose furniture instead of discarding it.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Electronics Waste,Keyboards,0.01,No,Recycle old electronics or consider donating them if still functional.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Hazardous Waste,Chemicals,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Electronics Waste,Keyboards,0.01,No,Recycle old electronics or consider donating them if still functional.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Paper Waste,Cardboard Boxes,0.2,No,Recycle paper products and use digital alternatives when possible.
+Furniture Waste,Tables,0.01,No,Donate or repurpose furniture instead of discarding it.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Medicine Waste,Medical Supplies,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Plastic Waste,Plastic Packaging,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Organic Waste,Biodegradable Bags,0.75,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Plastic Waste,Plastic Bags,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Hazardous Waste,Paints,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Appliance Waste,Refrigerators,,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Electronics Waste,Keyboards,0.01,No,Recycle old electronics or consider donating them if still functional.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Plastic Waste,Plastic Packaging,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Organic Waste,Wooden Utensils,,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Packaging Waste,Styrofoam,,No,Choose products with minimal packaging and recycle packaging materials.
+Garden Waste,Tree Trimmings,0.3,No,Compost garden waste and use it as natural fertilizer.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Food Waste,Spoiled Fruits,0.9,Yes,Reduce food waste by planning meals and composting food scraps.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Plastic Waste,Plastic Bags,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Metal Waste,Steel Scrap,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Furniture Waste,Tables,0.01,No,Donate or repurpose furniture instead of discarding it.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Packaging Waste,Plastic Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Hazardous Waste,Chemicals,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Glass Waste,Glass Bottles,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Glass Waste,Glass Bottles,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Kitchen Waste,Vegetable Trimmings,0.9,Yes,Compost food scraps to reduce landfill waste.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Construction Waste,Wood Scraps,,No,Reuse or donate construction materials to reduce waste from building projects.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Battery Waste,Button Batteries,,No,Recycle batteries to prevent harmful substances from entering the environment.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Packaging Waste,Styrofoam,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Packaging Waste,Cardboard Packaging,,No,Choose products with minimal packaging and recycle packaging materials.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Organic Waste,Biodegradable Bags,,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Paper Waste,Cardboard Boxes,0.2,No,Recycle paper products and use digital alternatives when possible.
+Paper Waste,Cardboard Boxes,0.2,No,Recycle paper products and use digital alternatives when possible.
+Plastic Waste,Plastic Packaging,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Organic Waste,Biodegradable Bags,0.75,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Medicine Waste,Empty Pill Bottles,,No,Follow proper disposal methods for expired medications and medical supplies.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Metal Waste,Steel Scrap,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Battery Waste,Button Batteries,,No,Recycle batteries to prevent harmful substances from entering the environment.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Paint Waste,Paint Cans,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Furniture Waste,Tables,0.01,No,Donate or repurpose furniture instead of discarding it.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Hazardous Waste,Paints,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Garden Waste,Soil,0.25,No,Compost garden waste and use it as natural fertilizer.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Textile Waste,Old Clothes,0.05,No,Donate or repurpose old clothes instead of throwing them away.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Battery Waste,AA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Chemical Waste,Cleaning Products,,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Paper Waste,Cardboard Boxes,0.2,No,Recycle paper products and use digital alternatives when possible.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Kitchen Waste,Vegetable Trimmings,0.9,Yes,Compost food scraps to reduce landfill waste.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Construction Waste,Concrete Debris,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Organic Waste,Biodegradable Bags,0.75,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Hazardous Waste,Paints,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Packaging Waste,Styrofoam,,No,Choose products with minimal packaging and recycle packaging materials.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Plastic Waste,Plastic Packaging,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Paper Waste,Cardboard Boxes,0.2,No,Recycle paper products and use digital alternatives when possible.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Electronics Waste,Keyboards,0.01,No,Recycle old electronics or consider donating them if still functional.
+Electronics Waste,Printers,,No,Recycle old electronics or consider donating them if still functional.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Plastic Waste,Plastic Bags,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Paint Waste,Paint Thinner,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Hazardous Waste,Paints,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Hazardous Waste,Paints,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Kitchen Waste,Vegetable Trimmings,0.9,Yes,Compost food scraps to reduce landfill waste.
+Electronics Waste,Printers,0.01,No,Recycle old electronics or consider donating them if still functional.
+Textile Waste,Fabric Scraps,0.1,No,Donate or repurpose old clothes instead of throwing them away.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Furniture Waste,Cabinets,0.01,No,Donate or repurpose furniture instead of discarding it.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+E-waste,Computer Parts,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Paper Waste,Newspapers,0.1,No,Recycle paper products and use digital alternatives when possible.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Food Waste,Spoiled Fruits,0.9,Yes,Reduce food waste by planning meals and composting food scraps.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Glass Waste,Glass Jars,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Chemical Waste,Solvents,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Appliance Waste,Washing Machines,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Metal Waste,Steel Scrap,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Kitchen Waste,Coffee Grounds,0.8,Yes,Compost food scraps to reduce landfill waste.
+Furniture Waste,Tables,0.01,No,Donate or repurpose furniture instead of discarding it.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Battery Waste,AA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Medicine Waste,Empty Pill Bottles,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+E-waste,Old Cell Phones,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Paper Waste,Cardboard Boxes,0.2,No,Recycle paper products and use digital alternatives when possible.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Battery Waste,AA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Medicine Waste,Expired Medications,,No,Follow proper disposal methods for expired medications and medical supplies.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Plastic Waste,Plastic Bottles,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Garden Waste,Weeds,0.4,No,Compost garden waste and use it as natural fertilizer.
+Medicine Waste,Empty Pill Bottles,,No,Follow proper disposal methods for expired medications and medical supplies.
+Appliance Waste,Microwaves,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Packaging Waste,Cardboard Packaging,0.01,No,Choose products with minimal packaging and recycle packaging materials.
+Paint Waste,Paint Cans,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Appliance Waste,Washing Machines,,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+Food Waste,Expired Dairy Products,0.8,Yes,Reduce food waste by planning meals and composting food scraps.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Garden Waste,Soil,,No,Compost garden waste and use it as natural fertilizer.
+Furniture Waste,Tables,0.01,No,Donate or repurpose furniture instead of discarding it.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Appliance Waste,Refrigerators,0.01,No,Properly recycle appliances to prevent hazardous materials from entering landfills.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Hazardous Waste,Batteries,0.01,No,Follow proper disposal guidelines for hazardous materials to minimize environmental impact.
+Glass Waste,Glass Jars,,No,Recycle glass bottles and jars to reduce landfill waste.
+Organic Waste,Compostable Food Containers,0.8,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Paper Waste,Paper Cups,0.15,No,Recycle paper products and use digital alternatives when possible.
+E-waste,Batteries,0.01,No,Properly recycle electronic devices and dispose of batteries at designated centers.
+Food Waste,Spoiled Fruits,0.9,Yes,Reduce food waste by planning meals and composting food scraps.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Medicine Waste,Expired Medications,0.01,No,Follow proper disposal methods for expired medications and medical supplies.
+Paint Waste,Paint Brushes,0.01,No,Donate excess paint or dispose of it responsibly as hazardous waste.
+Furniture Waste,Chairs,0.01,No,Donate or repurpose furniture instead of discarding it.
+Chemical Waste,Pesticides,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Construction Waste,Bricks,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Battery Waste,Button Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Textile Waste,Worn-out Shoes,0.08,No,Donate or repurpose old clothes instead of throwing them away.
+Electronics Waste,Monitors,0.01,No,Recycle old electronics or consider donating them if still functional.
+Metal Waste,Copper Wire,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Glass Waste,Broken Glassware,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Metal Waste,Aluminum Cans,0.01,No,Recycle metal items to conserve resources and reduce landfill waste.
+Kitchen Waste,Fruit Peelings,0.85,Yes,Compost food scraps to reduce landfill waste.
+Plastic Waste,Plastic Bags,0.01,No,Reduce single-use plastic consumption and opt for reusable alternatives.
+Kitchen Waste,Vegetable Trimmings,0.9,Yes,Compost food scraps to reduce landfill waste.
+Chemical Waste,Cleaning Products,0.01,No,Dispose of chemicals safely and follow local regulations for hazardous waste disposal.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Battery Waste,AAA Batteries,0.01,No,Recycle batteries to prevent harmful substances from entering the environment.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Glass Waste,Glass Jars,0,No,Recycle glass bottles and jars to reduce landfill waste.
+Construction Waste,Wood Scraps,0.01,No,Reuse or donate construction materials to reduce waste from building projects.
+Food Waste,Leftover Meals,0.85,Yes,Reduce food waste by planning meals and composting food scraps.
+Battery Waste,AA Batteries,0,No,Recycle batteries to prevent harmful substances from entering the environment.
+Organic Waste,Biodegradable Bags,0.75,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Furniture Waste,Tables,0.01,No,Donate or repurpose furniture instead of discarding it.
+Glass Waste,Glass Bottles,0.01,No,Recycle glass bottles and jars to reduce landfill waste.
+Organic Waste,Wooden Utensils,0.7,Yes,Use compostable or biodegradable alternatives to reduce plastic waste.
+Packaging Waste,Plastic Packaging,0,No,Choose products with minimal packaging and recycle packaging materials.

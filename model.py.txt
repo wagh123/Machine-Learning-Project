@@ -1,0 +1,47 @@
+Code for gui using streamlit
+
+// run this code on any local IDE by downloding the model.pkl file generated in above code and giving its path in following code
+
+
+import streamlit as st                # install streamlit by pip install streamlit
+import pickle 
+from sklearn.preprocessing import LabelEncoder           # install sklearn by pip install scikit-learn
+
+
+# main logic using function that will preprocess new input and predict the output
+def predict_yes_no(categorical_input1, categorical_input2, float_input, model):
+    # Encode categorical inputs using LabelEncoder
+    le1 = LabelEncoder()
+    le2 = LabelEncoder()
+    categorical_input1_encoded = le1.fit_transform([categorical_input1])
+    categorical_input2_encoded = le2.fit_transform([categorical_input2])
+
+    # Encode the input data
+    categorical_input1_encoded = le1.transform([categorical_input1])[0]
+    categorical_input2_encoded = le2.transform([categorical_input2])[0]
+# Make a prediction for the given inputs
+    prediction = model.predict([[categorical_input1_encoded, categorical_input2_encoded, float_input]])
+    label_mapping = {0: 'Non_biodegradable', 1: 'Biodegradable'}
+    prediction_label = label_mapping[prediction[0]]
+    return prediction_label
+
+
+# Load the trained model from model.pkl file
+# change the path by your model.pkl file path on your system
+with open(r"C:\Users\laptop\Downloads\waste_model.pkl", 'rb') as file:
+    model = pickle.load(file)
+
+
+# Streamlit GUI
+st.title("Prediction App")
+st.write("This app predicts 'Yes' or 'No' based on inputs.")
+
+# Input fields
+categorical_input1 = st.text_input("Categorical Input 1")
+categorical_input2 = st.text_input("Categorical Input 2")
+float_input = st.number_input("Float Input", value=0.0)
+
+# Prediction
+if st.button("Predict"):
+    result = predict_yes_no(categorical_input1, categorical_input2, float_input, model)
+    st.write(f"The prediction is: {result}")
